@@ -1,6 +1,6 @@
 # solidworks如何改为默认Z轴朝上
 
-## 前言
+## 前言(注意)
 我用习惯了fusion360里，X轴正方向朝右，Y轴正方向朝后，Z轴正方向朝上的视图，使用solidwords时非常不适应Y轴朝上的默认布局，所以就找到油管上的教程改了，有科学上网工具和一定的耐心，可以自己看，9分钟左右。遗憾的是，左下角的坐标轴，点击之后的视图角度还是原来的样子，不知道怎么改。  
     油管的视频教程链接[https://www.youtube.com/watch?v=p18_NfMzTyQ](https://www.youtube.com/watch?v=p18_NfMzTyQ)
 
